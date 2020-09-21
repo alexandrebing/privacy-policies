@@ -1,3 +1,5 @@
+# Walkairos
+
 **Privacy Policy**
 
 Alexandre Scheer Bing built the Walkairos app as a Free app. This SERVICE is provided by Alexandre Scheer Bing at no cost and is intended for use as is.
